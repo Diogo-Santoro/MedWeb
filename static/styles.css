@@ -1,0 +1,34 @@
+/* styles.css */
+
+/* Estilos básicos para o corpo */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;  /* Cor de fundo clara */
+}
+
+/* Estilos de cabeçalho */
+header {
+    background-color: #007bff;  /* Azul Bootstrap */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Botões personalizados */
+.btn-custom {
+    background-color: #28a745;  /* Verde Bootstrap */
+    color: white;
+}
+
+/* Margens e paddings */
+.margin-top {
+    margin-top: 20px;
+}
+
+.margin-bottom {
+    margin-bottom: 20px;
+}
+
+
